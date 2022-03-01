@@ -1,0 +1,75 @@
+
+h1{
+    color: rgb(129, 96, 121);
+    background-color: lightpink;
+    font-family: 'Black Han Sans', sans-serif;
+    font-family: 'Nanum Brush Script', cursive;
+}
+
+span:nth-child(1) {
+    color : red;
+}
+
+span:nth-child(2) {
+    color : orange;
+}
+
+span:nth-child(3) {
+    color : yellow;
+}
+
+span:nth-child(4) {
+    color : green;
+}
+
+
+span:nth-child(5) {
+    color : lightblue;
+}
+
+span:nth-child(6) {
+    color : blue;
+}    
+span span:nth-child(7) {
+    color : purple;
+}
+
+
+span:nth-child(8) {
+    color: rgb(0, 0, 0);
+    background-color: rgb(173, 232, 236);
+}
+
+span:nth-child(9) {
+    color : red;
+}
+
+span:nth-child(10) {
+    color : orange;
+}
+
+span:nth-child1(11) {
+    color : yellow;
+}
+
+span:nth-child(12) {
+    color : green;
+}
+
+span:nth-child(13) {
+    color : lightblue;
+}
+
+h6{
+    color: rgb(174, 255, 255);
+    font-family: 'Black Han Sans', sans-serif;
+    font-family: 'Nanum Brush Script', cursive;
+    font-family: 'Single Day', cursive;
+}
+
+h6{
+    color: rgb(143, 187, 226);
+    font-family: 'Black Han Sans', sans-serif;
+    font-family: 'Nanum Brush Script', cursive;
+    font-family: 'Single Day', cursive;
+}
